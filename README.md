@@ -2,7 +2,11 @@ Face-Recognition
 ====
 Dlib, Sklearn, Face Recognition, OpenCV it is a window application that after you use 'Add face' function to add your face's features into our system dataset. 'face recognition' function can extract your face from your camera and identify who you are.
 
-update 2017-10-4 added 'unknown' function 2017-12-4 used voting classifer to improve the accuracy
+change log
+-----
+2017-10-4 added 'unknown' function <br> 
+2017-12-4 used voting classifer to improve the accuracy<br> 
+
 
 License 
 ----
