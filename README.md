@@ -1,11 +1,12 @@
-#Face-Recognition
-
+Face-Recognition
+====
 Dlib, Sklearn, Face Recognition, OpenCV it is a window application that after you use 'Add face' function to add your face's features into our system dataset. 'face recognition' function can extract your face from your camera and identify who you are.
 
 update 2017-10-4 added 'unknown' function 2017-12-4 used voting classifer to improve the accuracy
 
-##License 
-##Boost Software License - Version 1.0 - August 17th, 2003
+License 
+----
+Boost Software License - Version 1.0 - August 17th, 2003
 
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 
